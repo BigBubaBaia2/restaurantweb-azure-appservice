@@ -68,4 +68,4 @@ jobs:
         with:
           app-name: 'restaurantweb-peternguyen'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FA76299307694EE68EC32B2C0F66472E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DA3C3A0603BA4615831E9E20E7461651 }}
